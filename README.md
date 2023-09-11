@@ -308,6 +308,7 @@ or you can run `git pull` from the Terminal tab. Once you have done the pull, yo
 your local repository.
 
 Let's move on to a couple more small programming challenges for you to try out, which are similar to Fizz Buzz.
+
 Testing to see if 'pulling' from Git works
 
 # Technical interviews  (and Java practice)
